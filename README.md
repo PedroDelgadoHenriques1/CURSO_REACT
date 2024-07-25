@@ -1,13 +1,12 @@
 Curso Completo de React: Do Básico ao Avançado 🚀  
 🎉 Este repositório é meu progresso com o curso de aprendizado utilizando React(React do Zero a Maestria (c/ hooks, router, API, Projetos))  
   
-Temos 📚  
-Neste repositório, contém desde os fundamentos básicos até conceitos avançados de React. Sendo eles:  
+Temos este repositório desde os fundamentos básicos até conceitos avançados de React. Sendo eles:  
 Fundamentos do React: Criação de projetos com npx e Vite, estrutura de arquivos e pastas;  
 JSX e Componentização: Como utilizar JSX e criar componentes reutilizáveis;  
 CSS e Estilização: Técnicas de estilização e boas práticas;  
 Formulários e Requisições HTTP: Manipulação de formulários e integração com APIs;  
-Context API: Gerenciamento de estado global em sua aplicação.  
+Context API: Gerenciamento de estado global em sua aplicação.  📚
 
 
 Além dos tópicos principais, também aprendi habilidades com:  
