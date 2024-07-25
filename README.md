@@ -29,13 +29,10 @@ Curiosidades:
 O Que É o React? 🤔
 
 React é uma biblioteca JavaScript utilizada para criar interfaces de usuário interativas e escaláveis. Ele é amplamente aplicado em:
+
 Desenvolvimento de Aplicações Web: Interfaces dinâmicas e responsivas.
-
 Desenvolvimento de Aplicações Móveis: Com React Native.
-
 Desenvolvimento de Aplicações de Desktop: Usando Electron.
-
 Criação de Componentes Reutilizáveis: Para diferentes projetos.
-
 Single-Page Applications (SPA): Aplicações web com uma única página HTML. 🚀
 
