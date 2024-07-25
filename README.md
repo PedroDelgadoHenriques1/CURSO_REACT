@@ -1,5 +1,5 @@
 Curso Completo de React: Do Básico ao Avançado 🚀
-🎉 Este repositório é meu progresso com o curso de aprendizado utilizando React
+🎉 Este repositório é meu progresso com o curso de aprendizado utilizando React(React do Zero a Maestria (c/ hooks, router, API, Projetos))
 
 Temos 📚
 Neste repositório, contém desde os fundamentos básicos até conceitos avançados de React. Como:
