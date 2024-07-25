@@ -27,6 +27,7 @@ Aplicar validações e boas práticas em seus projetos.
 
 Curiosidades:
 O Que É o React? 🤔
+
 React é uma biblioteca JavaScript utilizada para criar interfaces de usuário interativas e escaláveis. Ele é amplamente aplicado em:
 Desenvolvimento de Aplicações Web: Interfaces dinâmicas e responsivas.
 Desenvolvimento de Aplicações Móveis: Com React Native.
